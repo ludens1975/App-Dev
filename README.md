@@ -19,4 +19,4 @@ My first repository
  (https://myflixerz.to/watch-movie/transformers-rise-of-the-beasts-91042.9651472)
 
 # *Image*
-(C:Users\MG\Desktop\images.jfif)
+![My image] (images.jfif)
