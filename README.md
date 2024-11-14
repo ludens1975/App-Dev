@@ -6,9 +6,9 @@ My first repository
 
 
 
-# Linkhttps://
+# Link
 [Transformers Rise of the Beasts] 
-(myflixerz.to/watch-movie/transformers-rise-of-the-beasts-91042.9651472)
+(https://myflixerz.to/watch-movie/transformers-rise-of-the-beasts-91042.9651472)
 
 # Image
 ![This is the image]
