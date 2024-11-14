@@ -1,11 +1,13 @@
 # App-Dev
 My first repository
-# H1
-## H2
-### H3
-**Application Development in Emerging technologies** 
-*This is my first repository*
+# H1 **Application Development in Emerging technologies** 
+## H2 *This is my first repository*
+### H3  *Link and image below*
 
-# Link and images
+
+
+# Link
 [Transformers Rise of the Beasts] (https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdJeWBKe_DP8KfLjmSnxinOo4V7liDxh1B_aD2vwiJx-rpZLWk)
+
+# Image
 ![This is the image](images.jpg)
